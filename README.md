@@ -4,6 +4,6 @@
 
 Содержания:
 -   [Распределения](https://github.com/Siarhei-Y/data_analytics_workbench/tree/main/distributions):
-    - [Эмпирическое распределение](https://github.com/Siarhei-Y/data_analytics_workbench/blob/main/distributions/emperical_function.ipynb
-    - [Непрерывные распределения](https://github.com/Siarhei-Y/data_analytics_workbench/blob/main/distributions/continuous_distributions.ipynb
+    - [Эмпирическое распределение](https://github.com/Siarhei-Y/data_analytics_workbench/blob/main/distributions/emperical_function.ipynb)
+    - [Непрерывные распределения](https://github.com/Siarhei-Y/data_analytics_workbench/blob/main/distributions/continuous_distributions.ipynb)
     
