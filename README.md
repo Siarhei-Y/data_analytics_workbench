@@ -9,6 +9,6 @@
     - [Дискретные распределения](https://github.com/Siarhei-Y/data_analytics_workbench/blob/main/distributions/discrete_distributions.ipynb)
 - [Тестирование гипотез](https://github.com/Siarhei-Y/data_analytics_workbench/blob/main/hypothesis_testing)
     - [Снижение дисперсии](https://github.com/Siarhei-Y/data_analytics_workbench/blob/main/hypothesis_testing/variance_reduction) 
-        -[CUPED, CUPAC](https://github.com/Siarhei-Y/data_analytics_workbench/blob/main/hypothesis_testing/cuped_cupac.ipynb)     
+        - [CUPED, CUPAC](https://github.com/Siarhei-Y/data_analytics_workbench/blob/main/hypothesis_testing/variance_reduction/cuped_cupac.ipynb)     
 - [Статистические парадоксы, законы, эффекты](https://github.com/Siarhei-Y/data_analytics_workbench/blob/main/paradoxes.ipynb)
     
